@@ -6,7 +6,7 @@ body {
 
 @font-face {
     font-family: "Poppins-Black.ttf";
-    src: url(/assets/fonts/Poppins-Black.ttf );
+    src: url(assets/fonts/Poppins-Black.ttf );
     font-style: normal;
     font-weight: normal;
 }
