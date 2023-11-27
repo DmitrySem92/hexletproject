@@ -6,7 +6,7 @@ body {
 
 @font-face {
     font-family: "Poppins-Black.ttf";
-    src: url(/assets/fonts/Poppins-Black.ttf );
+    src: url(assets/fonts/Poppins-Black.ttf );
     font-style: normal;
     font-weight: normal;
 }
@@ -90,18 +90,18 @@ a {
 }
 
 #designer {
-    color: #F2BD00;
-    display: contents;
+  color: #F2BD00;
+  display: contents;
 }
 
-.main-part {
-    position: relative;
-width: 1440px;
-height: 949px;
-margin: 0;
-padding: 0;
-margin-top: 90px;
-margin-left: 90px;
+  .main-part {
+  position: relative;
+  width: 1440px;
+  height: 949px;
+  margin: 0;
+  padding: 0;
+  margin-top: 90px;
+  margin-left: 90px;
 }
 
 .front-part-text {
@@ -123,33 +123,33 @@ margin-left: 90px;
 }
 
 .front-part-button-b{
-    background-color: #2000E7; 
-    color: floralwhite;
-    font-family: "Poppins-Regular", sans-serif;
-font-size: 24px;
-line-height: 36px;
-width: 246px;
-height: 72px;
-border-color: #2000E7;
-border-radius: 10px;
-font-weight: 400;
-border-width: 2px;
-box-shadow: 11px 21px 15px 6px #9a9a9a;
+  background-color: #2000E7; 
+  color: floralwhite;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 36px;
+  width: 246px;
+  height: 72px;
+  border-color: #2000E7;
+  border-radius: 10px;
+  font-weight: 400;
+  border-width: 2px;
+  box-shadow: 11px 21px 15px 6px #9a9a9a;
 }
 
 .front-part-button-t{
-    background-color: white;
-    color: blue;
-    border-color: #2000E7;
-    width: 246px;
-height: 72px;
-margin-left: 90px;
-border-radius: 10px;
-font-size: 24px;
-border-width: 2px;
-line-height: 36px;
-font-family: "Poppins-Regular", sans-serif;
-box-shadow: 11px 21px 15px 6px #9a9a9a ;
+  background-color: white;
+  color: blue;
+  border-color: #2000E7;
+  width: 246px;
+  height: 72px;
+  margin-left: 90px;
+  border-radius: 10px;
+  font-size: 24px;
+  border-width: 2px;
+  line-height: 36px;
+  font-family: "Poppins-Regular", sans-serif;
+  box-shadow: 11px 21px 15px 6px #9a9a9a ;
 
 
 }
@@ -385,16 +385,16 @@ textarea {
 }
 
 .footer-text {
-    font-family: 'Poppin-Bold';
-font-size: 32px;
-font-weight: 400;
-line-height: 46px;
-letter-spacing: 0em;
-text-align: left;
-color: black;
-margin-left: 46px;
-width: 639px;
-float: left;
+  font-family: 'Poppin-Bold';
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+  margin-left: 46px;
+  width: 639px;
+  float: left;
 }
 
 .little-img>img{
